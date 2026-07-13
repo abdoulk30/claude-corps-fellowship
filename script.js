@@ -2,7 +2,7 @@
 const typedTextEl = document.getElementById('typedText');
 const phrases = [
   'whoami',
-  'full-stack developer, ai-native builder',
+  'full-stack developer, ai product builder',
   'applying to embed at a host org for a year'
 ];
 let phraseIndex = 0, charIndex = 0, deleting = false;
